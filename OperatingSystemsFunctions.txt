@@ -3,3 +3,6 @@ Many modern operating systems have a built-in backup function.  Some backup func
 
 Disc Management Tools:
 Many operating systems have a utility to erase and reformat disc drives.  These utilities usually support multiple disc formats, including some that the operating system itself may not support booting from/being installed on.  Some disc management software offer "quick" and "full" reformat options, or even an option to reformat multiple times to make data recovery more difficult (probably not the utilities built into Windows or MacOS X).
+
+Safe Mode
+Safe Mode, called something slightly different in some operating systems, allows an operating system to boot in a limited capacity, not starting all elements of the operating system or third-party additions.  Safe Mode can be used as a diagnostic tool (i.e., if the operating system won't boot normally, will it boot into Safe Mode?).  If an operating system won't boot normally, but can boot into Safe Mode, it can be used to access files or software on the problematic drive, or diagnostic/repair tools.
